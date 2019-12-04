@@ -1,0 +1,21 @@
+{
+  "name": "aula-media-queries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "scripts": {
+    "prestart": "npx cowsay o servidor esta iniciando...",
+    "start":"npx live-server scr/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Html",
+    "css"
+  ],
+  "author": "marcelo",
+  "license": "ISC"
+}
